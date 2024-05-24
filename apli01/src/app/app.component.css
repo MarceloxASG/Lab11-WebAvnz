@@ -1,0 +1,46 @@
+
+/* Estilos para el título */
+h1 {
+    font-size: 24px; /* Tamaño de fuente */
+    margin-bottom: 20px; /* Espaciado inferior */
+  }
+  
+  /* Estilos para los enlaces */
+  a {
+    color: #007bff; /* Color del enlace */
+    text-decoration: none; /* Sin subrayado */
+    transition: color 0.3s; /* Transición suave */
+  }
+  
+  a:hover {
+    color: #0056b3; /* Cambia el color al pasar el ratón */
+  }
+  
+  /* Estilos para los párrafos */
+  p {
+    margin-bottom: 20px; /* Espaciado inferior */
+    line-height: 1.5; /* Altura de línea */
+    text-align: justify;
+    width: 33%;
+  }
+  
+  img {
+    width: 500px; /* Ancho deseado */
+    height: auto; /* Altura automática para mantener la proporción */
+    border-radius: 5px; /* Bordes redondeados */
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2); /* Sombra suave */
+    margin-bottom: 20px;
+  }
+  input {
+    width: 30%; /* Ancho completo */
+    padding: 10px; /* Espaciado interno */
+    margin-bottom: 15px; /* Espaciado inferior */
+    border: 1px solid #ccc; /* Borde gris */
+    border-radius: 5px; /* Bordes redondeados */
+  }
+.rojo{
+    color: red;
+}
+.azul{
+    color: blue;
+}
